@@ -29,6 +29,10 @@ public class RamasContornos {
         //me lo pienso mejor y que quedo con lo que tenia
         
         //efectuo la ultima modificacion antes de mezclar
+        
+        //ultimo commit antes de subir al git
+        
+        //penultimo commit antes de subir al git
     }
     
 }
