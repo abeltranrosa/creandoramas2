@@ -16,6 +16,8 @@ public class RamasContornos {
         altura=Float.parseFloat(JOptionPane.showInputDialog("altura"));
         area=base*altura/2;
         System.out.println("area es:"+(base*altura));
+        
+        //añado primer comentario
     }
     
 }
